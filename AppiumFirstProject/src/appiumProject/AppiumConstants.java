@@ -1,5 +1,5 @@
 package appiumProject;
-//saikat
+
 public class AppiumConstants {
 	//homepage
 	public static String LOGIN_BUTTON = "//android.widget.Button[@content-desc='Login']";
